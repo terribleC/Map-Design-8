@@ -40,7 +40,9 @@ public class Cat {
 			e.printStackTrace();
 		}
 	}
-
+	public static void test(){
+		
+	}
 	public BufferedImage getImage() {
 		return sprite;
 	}
